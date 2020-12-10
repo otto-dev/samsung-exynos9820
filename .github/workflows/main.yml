@@ -30,7 +30,6 @@ jobs:
                      +cifs                     \
                      +sdfat                    \
                      +ntfs                     \
-                     +nfs                     \
                      +morosound                \
                      +boeffla_wl_blocker       \
         2>&1 | tee config.info
